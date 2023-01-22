@@ -1,4 +1,4 @@
-$checksum = "45aea652e84ae02f1000f426d8b9183bedf23aef5013d4444fa4b1da26744559"
+$checksum = "83a26287f39b1a96eb907bbcadd4770a1bf3b02b702370d01b21d4490445e9bf
 $packageName = 'jenkins-x'
 $toolsPath = Split-Path $MyInvocation.MyCommand.Definition
 $nuspecPath = Resolve-Path -Path $toolsPath+'\..'
